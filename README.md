@@ -1,6 +1,7 @@
-# Pizza Food Truck Sales Analysis (2015)
+# Pizza Food Truck Sales Analysis (2015) 
 
 This Power BI and SQL project delves into the sales data of a pizza food truck for the year 2015. The goal is to gain valuable insights into the business's performance by analyzing various key performance indicators (KPIs) and trends. The project covers the following aspects:
+[LINK TO THE PROJECT](https://app.powerbi.com/view?r=eyJrIjoiM2YzYTdlOTktNmMzYy00MDI5LTkyNzgtOGM0YTg1MTk3NTdkIiwidCI6IjY1MjFkZjFhLWVkZjQtNGMyOC1iNzg5LWJhOTBhZmY2ZmQ1YyJ9)
 
 ## Key Performance Indicators (KPIs)
 
